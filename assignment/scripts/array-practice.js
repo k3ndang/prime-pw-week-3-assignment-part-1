@@ -41,6 +41,10 @@ console.log('Last animal is', animalArray[3]);
 let lastAnimal = animalArray.length - 1;
 console.log('Last animal is', animalArray[lastAnimal]);
 
+let lastAnimal2 = animalArray[animalArray.length - 1];
+console.log('Last animal is', lastAnimal2);
+
+
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
 
